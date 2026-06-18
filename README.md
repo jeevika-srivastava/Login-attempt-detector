@@ -17,6 +17,13 @@ The program allows a user to enter a password and blocks access after multiple f
 - Counter variables
 - Basic authentication logic
 
+## How to Run It
+Run the script directly through your terminal or command prompt:
+
+```bash
+python login_attempt_detector.py
+```
+
 ## Example Output
 
 Enter password: test123  
